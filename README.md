@@ -2,9 +2,7 @@ A ideia desse troço é servir como um índice para que eu possa navegar usando 
 
 
 
-Downloads: 
-
-https://raw.githubusercontent.com/Alienigenaro/downloads/master/index.txt
+Downloads:  https://raw.githubusercontent.com/Alienigenaro/downloads/master/index.txt
 
 
 
